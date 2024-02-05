@@ -24,7 +24,7 @@ from sklearn.metrics import accuracy_score
 
 ## Project Details:
 #### Exploratory Data Analysis:
-Checked for null values/missing values in the dataset. Checked the imbalance in the class in the dataset. Descriptive Statistics done for valid and Fraud transactions.How the fraud and the Valid occurs with respect to the transaction amount and distribution of the amount for positive(frauds) and negative(Valid) is shown in a graph. Distribution of time also analysed as it doesnot largely affect the dataset.
+Checked for null values/missing values in the dataset. Checked the imbalance in the class in the dataset. Descriptive Statistics done for valid and Fraud transactions. How the fraud and the Valid occurs with respect to the transaction amount and distribution of the amount for positive(frauds) and negative(Valid) is shown in a graph. Distribution of time also analysed as it does not largely affect the dataset.
 
 #### Data Preprocessing :
 Under sampling has been done as data is highly unbalanced hence sample dataset has been created containing similar distribution of valid and fraud transation that is 492 transaction each.
